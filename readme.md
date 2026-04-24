@@ -48,7 +48,7 @@ Pour chaque analyse :
 Les fichiers :
 - picket_ref_positions_novalis.json
 - picket_ref_positions_gemini.json
-![json](/images/.png)
+![json](Images/.png)
 
 permettent de définir :
 
@@ -56,7 +56,7 @@ permettent de définir :
 - Gap nominal (correspondant à la moyenne des largeurs des différentes fentes, cf. exemple)
 - Plages d’angles
 - Énergies
-![Exemple tableau](/images/exemple.png)
+![Exemple tableau](Images/exemple.png)
 ---
 
 ## ⚠️ Notes
