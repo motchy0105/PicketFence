@@ -67,14 +67,19 @@ permettent de définir :
 
 ---
 
-## 👨‍🔬 Auteur
+## Contact
 
-Motchy SALEH  
-Physicien médical – CHR Metz-Thionville / CRAN
+**Motchy SALEH**  
+📧 motchy.saleh@chr-metz-thionville.fr  
+🔗 https://www.linkedin.com/in/motchy-saleh/
 
 ---
 
-## 📬 Feedback
+## Usage
 
-Les retours sont les bienvenus pour améliorer l’outil (bugs)👍 
-Mail : motchy.saleh@chr-metz-thionville.fr
+Projet à visée **non commerciale**  
+Utilisation recommandée dans un cadre **scientifique, hospitalier ou pédagogique**
+
+---
+
+Bon usage 👌
